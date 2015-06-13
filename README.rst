@@ -1,6 +1,4 @@
-ACLARK.NET, LLC static website
-==============================
-
-*Built with Plone. Powered by GitHub Pages.*
+ACLARK.NET, LLC static website made with Plone
+==============================================
 
 .. image:: screenshot.png
